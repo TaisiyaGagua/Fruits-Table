@@ -1,19 +1,16 @@
-# PetProject
+# 🍎 🍌 🍊 🍉 🍇
+___
+Includes an HTML page with various algorithmic constructs.
 
-Рабзработан в качестве практического задания 
+The initial list of fruits that can be shuffled.
 
-Содержит в себе html-страницу с различными алгоритмическими конструкциями
+Filtering the list based on the weight field.
 
-Исходный список фруктов, которые можно перемешивать.
+The bubble sort algorithm allows sorting based on the color field.
 
-Фильтрация списка по полю weight.
+You can add your own custom fruit.
 
-Алгоритм пузырьковой сортировки позволяет сортировать по полю color. 
-
-Можно добавить свой собственный фрукт. 
-
-## Используемые технологии
-
+## Used Technologies
 * HTML
 
 * CSS 
@@ -21,7 +18,13 @@
 * JavaScript
 
 
-## Как открыть/запустить
+## How to Open/Run
 
-Зайти в папку сайта в файловом менеджере, кликнуть 2 раза по файлу index.html.
-Открыть ссылку на Github Pages.
+Navigate to the website folder in the file manager, double-click on the file "index.html."
+Open the link on Github Pages.
+
+
+
+
+
+
